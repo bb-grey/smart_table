@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "860613620213",
+    "project_id": "smarttable-8601c",
+    "storage_bucket": "smarttable-8601c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860613620213:android:1b5f0ba1fcde802ea3f0bc",
+        "android_client_info": {
+          "package_name": "com.bahmad.smart_table"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860613620213-vigo3khuiupsjmjc5ste6js5gn4dd3cj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bahmad.smart_table",
+            "certificate_hash": "3b33a1da24dbbfa97afe3c8a29d8612b191c43e5"
+          }
+        },
+        {
+          "client_id": "860613620213-d4pmurtfqo2ifiuvb3pronurdt4707on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJYLHe3G9zVkofFXmaB3ZwyCn8jfMjVQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860613620213-d4pmurtfqo2ifiuvb3pronurdt4707on.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
