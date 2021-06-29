@@ -4,6 +4,7 @@ import 'package:smart_table/screens/login_screen.dart';
 import './screens/home_screen.dart';
 import './constants.dart';
 
+// To run Web application: flutter run -d web-server
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
   runApp(MyApp());

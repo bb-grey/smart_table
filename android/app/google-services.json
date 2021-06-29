@@ -1,20 +1,20 @@
 {
   "project_info": {
-    "project_number": "860613620213",
-    "project_id": "smarttable-8601c",
-    "storage_bucket": "smarttable-8601c.appspot.com"
+    "project_number": "605340881167",
+    "project_id": "smart-table-bc887",
+    "storage_bucket": "smart-table-bc887.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:860613620213:android:1b5f0ba1fcde802ea3f0bc",
+        "mobilesdk_app_id": "1:605340881167:android:94407db41bdf6d64de2e7a",
         "android_client_info": {
           "package_name": "com.bahmad.smart_table"
         }
       },
       "oauth_client": [
         {
-          "client_id": "860613620213-vigo3khuiupsjmjc5ste6js5gn4dd3cj.apps.googleusercontent.com",
+          "client_id": "605340881167-q93vlk8cfmvo589opbm7go1d5i029ug5.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.bahmad.smart_table",
@@ -22,20 +22,20 @@
           }
         },
         {
-          "client_id": "860613620213-d4pmurtfqo2ifiuvb3pronurdt4707on.apps.googleusercontent.com",
+          "client_id": "605340881167-7q40dcugn66k94c6q87sgjjsqn35a9el.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBJYLHe3G9zVkofFXmaB3ZwyCn8jfMjVQM"
+          "current_key": "AIzaSyC_I1Bk5UECfdaqtGwzjIIzWxx684lBvhE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "860613620213-d4pmurtfqo2ifiuvb3pronurdt4707on.apps.googleusercontent.com",
+              "client_id": "605340881167-7q40dcugn66k94c6q87sgjjsqn35a9el.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

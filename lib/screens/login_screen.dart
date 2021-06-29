@@ -27,7 +27,15 @@ class _LoginScreenState extends State<LoginScreen> {
             mainAxisAlignment: MainAxisAlignment.center,
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
-              _buildTitle(),
+              Text(
+                'Log In',
+                textAlign: TextAlign.center,
+                style: TextStyle(
+                  fontWeight: FontWeight.bold,
+                  fontSize: 32,
+                  color: Colors.black,
+                ),
+              ),
               SizedBox(height: 30),
               LoginTextField(
                 hint: 'Email address',
@@ -91,17 +99,5 @@ class _LoginScreenState extends State<LoginScreen> {
         print('Wrong password provided for that user.');
       }
     }
-  }
-
-  Widget _buildTitle() {
-    return Text(
-      'Log In',
-      textAlign: TextAlign.center,
-      style: TextStyle(
-        fontWeight: FontWeight.bold,
-        fontSize: 32,
-        color: Colors.black,
-      ),
-    );
   }
 }

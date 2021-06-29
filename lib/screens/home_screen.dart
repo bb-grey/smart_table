@@ -32,7 +32,29 @@ class HomeScreen extends StatelessWidget {
                   AppHeading(text: kAppTitle),
                   Expanded(
                     // Put Windows Screen here by adding conditions.
-                    child: MessagesList(),
+                    child: Row(
+                      children: [
+                        Expanded(child: MessagesList()),
+                        Container(
+                          width: 1.0,
+                          color: Colors.black,
+                        ),
+                        Expanded(child: MessagesList()),
+                      ],
+                    ),
+                  ),
+                  Container(height: 1.0, color: Colors.black),
+                  Expanded(
+                    child: Row(
+                      children: [
+                        Expanded(child: MessagesList()),
+                        Container(
+                          width: 1.0,
+                          color: Colors.black,
+                        ),
+                        Expanded(child: MessagesList()),
+                      ],
+                    ),
                   ),
                   Container(
                     margin: EdgeInsets.symmetric(
